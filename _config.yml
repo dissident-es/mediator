@@ -4,17 +4,18 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Dissident.es"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Plateforme Réflective Étudiante
+
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/dissident.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/journaux.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
